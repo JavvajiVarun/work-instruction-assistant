@@ -1,0 +1,13 @@
+{"id": "q01", "question": "What torque should I use on the pump bearing housing bolts?", "expected_doc": "WI-101", "expected_revision": "C", "must_contain": ["52"], "answerable": true}
+{"id": "q02", "question": "What is the maximum temperature for heating the new pump bearing?", "expected_doc": "WI-101", "expected_revision": "C", "must_contain": ["110"], "answerable": true}
+{"id": "q03", "question": "What vibration limit applies after replacing a pump bearing?", "expected_doc": "WI-101", "expected_revision": "C", "must_contain": ["4.5"], "answerable": true}
+{"id": "q04", "question": "Who is allowed to remove a lockout lock?", "expected_doc": "WI-205", "expected_revision": "A", "must_contain": ["person who applied"], "answerable": true}
+{"id": "q05", "question": "How do I verify zero energy before working on an electrical panel?", "expected_doc": "WI-205", "expected_revision": "A", "must_contain": ["voltage"], "answerable": true}
+{"id": "q06", "question": "What is the minimum insulation resistance for a heater element?", "expected_doc": "WI-310", "expected_revision": "B", "must_contain": ["10"], "answerable": true}
+{"id": "q07", "question": "When does a heater element need to be replaced based on the insulation test?", "expected_doc": "WI-310", "expected_revision": "B", "must_contain": ["2"], "answerable": true}
+{"id": "q08", "question": "How often should heater elements be inspected?", "expected_doc": "WI-310", "expected_revision": "B", "must_contain": ["6 months"], "answerable": true}
+{"id": "q09", "question": "What tightening passes are used for flanged joint bolts?", "expected_doc": "WI-412", "expected_revision": "A", "must_contain": ["30%"], "answerable": true}
+{"id": "q10", "question": "Why was the pump bearing housing torque value changed?", "expected_doc": "LL-017", "expected_revision": "A", "must_contain": ["outdated"], "answerable": true}
+{"id": "q11", "question": "What belt deflection should I set on cooling fan F-10?", "expected_doc": null, "expected_revision": null, "must_contain": [], "answerable": false, "note": "Only exists in a DRAFT doc, so must not be answered."}
+{"id": "q12", "question": "What is the refueling interval for the reactor?", "expected_doc": null, "expected_revision": null, "must_contain": [], "answerable": false, "note": "Not in any document."}
+{"id": "q13", "question": "What is the cafeteria lunch menu today?", "expected_doc": null, "expected_revision": null, "must_contain": [], "answerable": false, "note": "Off-topic."}

@@ -1,0 +1,22 @@
+# Secrets - never commit
+.env
+*.pem
+*.jks
+*.key
+*.keystore
+
+# Runtime data
+data/*.db
+data/audit.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
